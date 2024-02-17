@@ -28,5 +28,5 @@ Your task is to visualize an earthquake dataset. Complete the following steps:
 
 # Solution
 
-<p align='center'> <img src='Leaflet-Part-1/Images/earthquakes_map.PNG'></p>
+<p align='center'> <img src='Leaflet-Part-1/Images/earthquakes_map.png'></p>
 
